@@ -1,0 +1,11 @@
+---
+title: "first quarto"
+format: html
+editor: visual
+---
+
+```{r}
+#| include = FALSE
+library(tidyverse)
+library(palmerpenguins)
+```
